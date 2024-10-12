@@ -9,10 +9,12 @@ html,body{
 }
 
 .button{
+    color: white;
+    background-color: black;
     padding: 20px;
     width: 66px;
     margin: 0 3px;
-    border: 2px solid black;
+    border: 2px solid hotpink;
     border-radius: 9px;
     cursor: pointer;
 }
@@ -31,11 +33,12 @@ html,body{
     font-size: 20px;
     margin: 0;
     padding: 10px 0px;
-    border: 2px solid black;
+    border: 2px solid  hotpink;;
     border-radius: 5px;
 }
 
 .footer{
     color: rgb(0, 0, 255);
     font-size: 2rem;
+    font-weight: bolder;
 }
